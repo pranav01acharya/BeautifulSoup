@@ -2,7 +2,7 @@
 #Thank you to Data Science Dojo for a very helpful tutorial
 #Link: https://www.youtube.com/watch?v=XQgXKtPSzUI
 #Created an image scraper that scraped https://expressexpense.com/view-receipts for receipt pictures and downloaded them
-#We will be using these images for our projec: our application will learn to automatically classify and tabulate a receipt's expenses
+#We will be using these images for our project: our application will learn to automatically classify and tabulate a receipt's expenses
 #into various expenditure categories by using these receipt pictures as training data
 
 from urllib.request import urlopen as uReq
